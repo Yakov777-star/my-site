@@ -1,0 +1,30 @@
+button{
+    height: 25px;
+    width: 74px;
+    margin-left: 150px;
+    
+    
+}
+
+button:hover{
+    color: aliceblue;
+    background-color: rgb(18, 15, 212);
+    border-radius: 3px;
+}
+h3{
+    color:red;
+}
+h1{
+    color: rgb(16, 27, 242);
+   
+}
+div{
+    width: 400px;
+    height: 300px;
+    text-align: justify;
+    border: 1px;
+border: 2px dotted;
+border: medium solid rgb(0, 0, 0);
+border-radius: 7px;
+margin-top: 80px;
+}
