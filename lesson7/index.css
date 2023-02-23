@@ -1,0 +1,230 @@
+header>h1{
+    color: black;
+    font-size: 2.7rem;
+}
+
+header> a {
+color: rgb(168, 166, 166);
+font-family: 'Roboto', sans-serif;
+
+border-right: 1px solid rgb(181, 180, 180);
+
+
+}
+.q{
+    color: rgb(39, 39, 39);
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+}
+header{
+    margin-bottom: 3px;
+      background-color: aliceblue;
+    width: 80vw;
+    height: 150px;   
+}
+.href{
+    margin-left: 35px;
+    margin-right: 35px;
+    height: 40px ;
+ width: 900px;
+    padding-top: 11px;
+    padding-left: 7px;
+    background-color: black;
+}
+.href > a {
+    color: rgb(181, 181, 181);
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
+.tops{
+    color: aliceblue;
+    font-size: 1.7rem;
+}
+.img2{
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 0px;
+    height: 500px ;
+  width: 907px;
+   grid-area: b;
+}
+img{
+  
+
+}
+.img3{
+
+}
+.c{
+    
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 33px;
+    margin-right: 15px;
+    width: 280px;
+}
+.d{ 
+    
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 280px;
+}
+.e{
+   
+    height: 150px;
+    margin-top: 15px;
+    margin-right: 15px;
+    width: 280px;
+}
+.very{
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    margin-bottom: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(43, 255, 0);
+    border: 1px solid rgb(0, 255, 55);
+    border-radius: 8px;
+}
+i{
+    margin-left: 3px;
+}
+h1{
+
+    font-size: 1.3rem;
+    color: rgb(206, 72, 72);
+}
+footer > div {
+    width: 200px;
+    height: 360px;
+    border-radius: 10px;
+  text-align: center;
+  
+}
+.tommy{
+    width: 99%;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+}
+.tommy1{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: a;
+    
+}
+main{
+    background-color: aliceblue;
+    width: 80vw;
+}
+center{
+    text-align: center;
+  
+}
+button:hover{
+    background-color: rgb(177, 177, 177);
+}
+footer{
+  background-color: aliceblue;
+    margin-top: 10px;
+    width: 80vw;
+   height: 1100px;
+    
+}
+.flex{
+   display: grid;
+
+   grid-template-areas: "a b c d"
+                        "e f g h "
+                        "j i k l";
+
+}
+.tommy2{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: b;
+}
+.tommy3{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: c;
+}
+.tommy4{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: d;
+}
+.tommy5{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: e;
+}
+.tommy6{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: f;
+}
+.tommy7{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: g;
+}
+.tommy8{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: h;
+}
+.tommy9{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: i;
+}
+.tommy0{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: j;
+}
+.tommy11{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: k;
+}
+.tommy12{margin: 10px;
+    width: 215px;
+    height: 350px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    grid-area: l;
+
+}
+
+
+
+
+

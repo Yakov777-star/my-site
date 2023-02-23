@@ -1,5 +1,119 @@
-h1{
-    font-size: 1.7rem;
-    color: orange;
-text-shadow: 0px 0px 8px red;
+h2{
+    color: rgb(0, 0, 0);
+
 }
+button{
+    width: 120px;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgb(255, 0, 0);
+    border: aliceblue ;
+    border-radius: 8px;
+}
+.container{
+    border: 1px solid rgb(189, 189, 189);
+    text-shadow: 0px 0px 2px  rgb(189, 189, 189);
+    width: 750px;
+    padding: 10px;
+    height: 357px;
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.a{
+    border:1px solid rgb(189, 189, 189) ;
+    text-shadow: 0px 0px 2px  rgb(189, 189, 189);
+    width: 200px;
+    height: 353px;
+    border-radius: 8px;
+    margin-right: auto;
+    display: flexbox;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-top: 40px;
+}
+h1{
+     color: rgb(0, 254, 149);
+     text-align: center;
+}
+p{
+    text-align: center;
+  
+   
+}
+.b{
+    width: 170px;
+    height: 137px;
+    border-radius: 8px;
+    border:1px solid rgb(189, 189, 189) ;
+    text-shadow: 0px 0px 2px  rgb(189, 189, 189);
+    margin-left: 10px;
+
+}
+.c{
+    width: 170px;
+    height: 137px;
+    border-radius: 8px;
+    margin-left: 10px;
+    border:1px solid rgb(189, 189, 189) ;
+    text-shadow: 0px 0px 2px  rgb(189, 189, 189);
+}
+.d{
+    width: 170px;
+    height: 137px;
+    border-radius: 8px;
+    margin-left: 10px;
+    border:1px solid rgb(189, 189, 189) ;
+    text-shadow: 0px 0px 2px  rgb(189, 189, 189);
+}
+i{
+    margin-right: 6px;
+}
+.fer{
+  text-align: center;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.e{
+    width: 533px;
+    height: 205px;
+    border-radius: 8px;
+   margin-left: 10px;
+    border:1px solid rgb(189, 189, 189) ;
+    text-shadow: 0px 0px 2px  rgb(189, 189, 189);
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.flex{
+  
+   
+}
+.goal{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+}
+.k{
+    width: auto;
+    height:auto;
+    border-radius: 8px;
+   
+   
+}
+.o{
+    width: auto;
+    height:auto;
+    border-radius: 8px;
+ 
+    display: flex;
+    flex-wrap: wrap;
+}
+   button:hover{
+    background-color: rgb(243, 62, 62);
+   }
