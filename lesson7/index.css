@@ -223,6 +223,9 @@ footer{
     grid-area: l;
 
 }
+body{
+    margin-left: 100px;
+}
 
 
 
