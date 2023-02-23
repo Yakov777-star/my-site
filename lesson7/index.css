@@ -110,10 +110,13 @@ footer > div {
     height: 200px;
     border-radius: 10px;
     margin-bottom: 0px;
+    
 }
 .tommy1{margin: 10px;
+    margin-left: 25px;
     width: 215px;
     height: 350px;
+    margin-top: 20px;
     border-radius: 10px;
     margin-bottom: 0px;
     grid-area: a;
@@ -146,6 +149,7 @@ footer{
 
 }
 .tommy2{margin: 10px;
+    margin-top: 20px;
     width: 215px;
     height: 350px;
     border-radius: 10px;
@@ -153,6 +157,7 @@ footer{
     grid-area: b;
 }
 .tommy3{margin: 10px;
+    margin-top: 20px;
     width: 215px;
     height: 350px;
     border-radius: 10px;
@@ -160,6 +165,7 @@ footer{
     grid-area: c;
 }
 .tommy4{margin: 10px;
+    margin-top: 20px;
     width: 215px;
     height: 350px;
     border-radius: 10px;
